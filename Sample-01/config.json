@@ -1,7 +1,7 @@
 {
     "AUTH0_DOMAIN": "matias-onboarding.us.auth0.com",
     "AUTH0_CLIENT_ID": "YoqyzfxCuA0NPZVKvGrsB1euavtaCZiS",
-    "AUTH0_CLIENT_SECRET": "WOa7edraBN1-ylrLD7LOq9OuIuQ0k8fDL4OspknDjrTa5-o2336BG6kUgte-rwEk",
+    "AUTH0_CLIENT_SECRET": "AUTH0_CLIENT_SECRET",
     "AUTH0_KEYWORD_REPLACE_MAPPINGS": { "AUTH0_TENANT_NAME": "matias-onboarding" },
     "AUTH0_ALLOW_DELETE": false
   }
